@@ -8,8 +8,8 @@ Body {
 .header {
     display:flex; 
     justify-content: space-between;
-    padding-left:125px;
-    padding-right: 125px;
+    padding-left:145px;
+    padding-right: 145px;
     background-color: #4EB7A6;
     color:#F3C6A6;
 }
@@ -30,8 +30,8 @@ Body {
 }
 
 .Hero {
-    padding-left:125px;
-    padding-right: 125px;
+    padding-left:145px;
+    padding-right: 145px;
     display:flex;
     align-items: center;
     justify-content: space-around;
@@ -41,8 +41,8 @@ Body {
 }
 
 .second {
-    padding-left:125px;
-    padding-right: 125px;
+    padding-left:145px;
+    padding-right: 145px;
     display:flex;
     flex-direction: column;
     background-color: #498f7f;
@@ -67,8 +67,6 @@ Body {
 
 .citation {
     color: whitesmoke;
-    padding-left:125px;
-    padding-right: 125px;
     display:flex;
     flex-direction: column;
     justify-content: stretch;
