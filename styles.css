@@ -34,8 +34,7 @@ Body {
     padding-right: 145px;
     display:flex;
     align-items: center;
-    justify-content: space-around;
-    padding:50px;
+    justify-content: space-between;    
     background-color: #3D9587;
     color: whitesmoke;
 }
