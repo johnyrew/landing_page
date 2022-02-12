@@ -1,0 +1,204 @@
+Body {
+    display:flex;
+    flex-direction: column;
+    margin:0;
+    
+}
+
+.header {
+    display:flex; 
+    justify-content: space-between;
+    padding-left:125px;
+    padding-right: 125px;
+    background-color: #4EB7A6;
+    color:#F3C6A6;
+}
+
+.links {
+    display: flex;
+    flex-direction: row;
+    gap: 30px;
+    text-decoration: none;
+
+}
+
+.links a{
+    text-decoration: none;
+    color: #F3C6A6;
+    font-size: 12px;
+    text-transform: uppercase;
+}
+
+.Hero {
+    padding-left:125px;
+    padding-right: 125px;
+    display:flex;
+    align-items: center;
+    justify-content: space-around;
+    padding:50px;
+    background-color: #3D9587;
+    color: whitesmoke;
+}
+
+.second {
+    padding-left:125px;
+    padding-right: 125px;
+    display:flex;
+    flex-direction: column;
+    background-color: #498f7f;
+    padding-top: 50px;
+    padding-bottom:50px;
+
+}
+
+.introduction {
+    display:flex;
+    justify-content: center;
+    color: whitesmoke;
+}
+.plants {
+    display:flex;
+    flex: 1;
+    justify-content: center;
+    gap: 40px;
+    color: whitesmoke;
+   
+}
+
+.citation {
+    color: whitesmoke;
+    padding-left:125px;
+    padding-right: 125px;
+    display:flex;
+    flex-direction: column;
+    justify-content: stretch;
+    padding-left: 300px;
+    padding-right:300px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.author {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.Signup {
+    display: flex;
+    justify-content: center;
+    align-items: center;   
+}
+
+.leftinfo {
+    display:flex;
+    flex-direction: column; 
+    margin-right: 150px;
+}
+
+
+.Footer p {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+
+.header .Logo {
+    font-weight: 800;
+    text-transform: uppercase;
+}
+
+ .Herosection {
+     font-size: 40px;
+     font-weight: 900;
+     margin: 10px;
+ }
+
+ .Lowersection {
+     margin-top: 5px;;
+     font-size: 20px;
+     margin: 10px;
+ }
+
+ .Hero button {
+     margin-left:10px;
+     border-radius: 5px;
+     background-color: #F3A6AC;
+     color: bisque;
+     font-size: 16px;
+     width: 75px;
+     font-weight: 600;
+ }
+
+.plants img {
+    max-height: 200px;
+    max-width: 200px;
+    border-radius: 5px;
+
+}
+
+
+
+.plants p {
+    display: flex;
+    justify-content: center;
+    flex:1;
+}
+
+.citat {
+    font-size: 20px;
+    margin: 15px;
+}
+
+.author {
+    font-size: 18px;
+    font-weight: 700;
+}
+
+.citation {
+    background-color: #3D9587;
+}
+
+.Signup { 
+    background-color: #d1d8e0;
+    min-height: 250px;
+
+}
+
+.Signup button {
+    margin-left:10px;
+    border-radius: 5px;
+   background: none;
+    color: bisque;
+    font-size: 16px;
+    width: 80px;
+    font-weight: 600;
+}
+
+.Signup p {
+    margin:5px;
+    padding-left:35px;
+    font-size: 20px;
+
+}
+
+
+.Signup .box{
+    display:flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #3D9587;
+    padding-right: 25px;
+   
+    width: 800px;
+    height: 130px;
+    border-radius: 5px;
+}
+
+.Footer p {
+    font-size: 12px;
+}
+
+.introduction{
+    font-weight: 900;
+    font-size: 25px;
+}
